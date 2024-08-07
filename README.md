@@ -1,6 +1,6 @@
 # Guess My Number
 
-Ready for a Number Challenge?
+<b>Ready for a Number Challenge?</b>
 
 Think you're a number whiz? Prove it! In this exciting game, you'll try to guess a hidden number. With every wrong guess, you'll get closer to cracking the code.
 
